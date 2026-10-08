@@ -1,0 +1,17 @@
+# WordPress & Environment
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.zip
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+vendor/
+node_modules/
